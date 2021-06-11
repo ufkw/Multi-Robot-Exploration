@@ -10,7 +10,9 @@ I tested my project in two different obstacle environments, as well as an enviro
 ![image](https://user-images.githubusercontent.com/42676735/121716084-9ef5e480-caad-11eb-9149-74733b864632.png)
 ![image](https://user-images.githubusercontent.com/42676735/121716103-a1583e80-caad-11eb-8957-7abfe6828a56.png)
 ![image](https://user-images.githubusercontent.com/42676735/121716112-a4532f00-caad-11eb-83e2-11be7056144b.png)
+
 The robots can successfully navigate around these obstacles and across a large space of explored cells to the nearest blue (frontier) cells.
+
 ![image](https://user-images.githubusercontent.com/42676735/121716147-b0d78780-caad-11eb-9f6a-9c15c3ddca4a.png)
 ![image](https://user-images.githubusercontent.com/42676735/121716155-b3d27800-caad-11eb-8581-55ff48eb4d59.png)
 
