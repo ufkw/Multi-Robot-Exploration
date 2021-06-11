@@ -4,6 +4,12 @@ This project is an implementation of the algorithm outlined by Martijn N. Rooker
 
 I tested my project in two different obstacle environments, as well as an environment with no obstacles. Each environment was tested with three, four, or five robots. I performed ten trials for each of these cases. I also ran three, four, and five robots on a blank 50 x 50 environment without obstacles. By looking at the data, Environment 2 was explored quicker than Environment 3 on average. On average, exploring Environment 2 took around twice as long as exploring the blank environment while exploring Environment 3 took between two to three times as long. 
 
+## Exploring Environment 1
+Environment 1 has no obstacles.
+![Screenshot (53)](https://user-images.githubusercontent.com/42676735/121716574-2ba0a280-caae-11eb-8a07-834812899e7b.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/42676735/121716580-2e02fc80-caae-11eb-8f8b-cf36e005b030.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/42676735/121716592-2fccc000-caae-11eb-8ba9-9a0dca0f0606.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/42676735/121716597-31968380-caae-11eb-949e-d9c9e90a540b.png)
 
 
 ## Exploring Environment 2
